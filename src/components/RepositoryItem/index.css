@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.avatar-css {
+  height: 200px;
+  width: 200px;
+}
+.repo-con {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.name {
+  font-family: cursive;
+  color: #e73959;
+  font-weight: 300;
+  font-size: 22px;
+}
+.star-icon {
+  color: yellow;
+  height: 30px;
+  width: 30px;
+  margin: 15px;
+}
+.f-con {
+  display: flex;
+}
+.text {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fork-icon {
+  color: skyblue;
+  height: 30px;
+  width: 30px;
+  margin: 15px;
+}
+.issue-icon {
+  color: #e73959;
+  height: 30px;
+  width: 30px;
+  margin: 15px;
+}
